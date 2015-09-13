@@ -2,7 +2,7 @@
 // This is pretty much identical to the other one, only swapping how the targets work.
 
 // Get the new target
-var target = event.getAttackTarget();
+var target = npc.getAttackTarget();
 
 // First check to see if there is a target, if there isn't target will equal null and this code won't run.
 // Second, check to see if the light level of the target is above 8.

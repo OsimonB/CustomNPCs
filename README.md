@@ -23,8 +23,8 @@ Every now and again I will post videos to YouTube, these scripts are what I writ
 
 ### Episode 5 - Interacting with Redstone
 *There wasn't much new code in here, but I rewrote some of the other functions. Can't guarantee that this code is 100% stable.*
-- [NPCP_Init](https://github.com/OsimonB/CustomNPCs/blob/master/Ep5_WorldIntegration/NPCP_Init.js)
-- [NPCP_Update](https://github.com/OsimonB/CustomNPCs/blob/master/Ep5_WorldIntegration/NPCP_Update.js)
+- [NPCP_Init](https://github.com/OsimonB/CustomNPCs/blob/master/Ep5_WorldInteraction/NPCP_Init.js)
+- [NPCP_Update](https://github.com/OsimonB/CustomNPCs/blob/master/Ep5_WorldInteraction/NPCP_Update.js)
 
 ### Episode 6 - Monsters in the Dark
 - [Mob_Target](https://github.com/OsimonB/CustomNPCs/blob/master/Ep6_LightLevels/Mob_Target.js)
